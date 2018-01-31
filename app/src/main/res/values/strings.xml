@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Audio Rtmp Streamer</string>
+    <string name="lblAddress">Stream address:</string>
+    <string name="stream_my_mic">Stream My Mic</string>
+    <string name="rtmp">rtmp://</string>
+    <string name="streaming_mic_at">Streaming mic at</string>
+</resources>
